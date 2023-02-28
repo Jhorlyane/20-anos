@@ -1,0 +1,21 @@
+body{
+  background-image: linear-gradient(black, rgb(49, 1, 49),rgb(0, 0, 61));
+  top: left;
+    color: rgb(236, 230, 230);
+}
+
+img{
+    height: 40rem;
+    width: 45rem;
+    margin: 2rem;
+}
+
+h1{
+    color:  white;
+}
+
+footer{
+    background: black;
+    color: white;
+    height: 2rem;
+}
